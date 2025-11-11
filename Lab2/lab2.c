@@ -22,9 +22,9 @@ int main() {
 /#include <stdio.h>
 #define PI 3.14159
 int main() {
-    float radius, area;
+    float bankinh, areadientich;
     printf("Nhap ban kinh hinh tron: ");
-    scanf("%f", &radius);
+    scanf("%f", &bankinh);
     dientich = PI * bankinh * bankinh;
     printf("Dien tich hinh tron la: %.2f\n", dientich);
     return 0;
