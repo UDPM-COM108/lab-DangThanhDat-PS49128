@@ -1,4 +1,4 @@
-#include <stdio.h>// thư viện
+#include <stdio.h>
 int main(){
 
     //printf("Hello World");// xuat ra man hinh Hello World 
